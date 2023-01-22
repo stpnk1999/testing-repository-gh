@@ -1,1 +1,1 @@
-# testing-repository-gh
+# testing-repository
