@@ -1,0 +1,20 @@
+Wojciech Musiała
+
+
+Jeden z określonych typów dla współczesnego użytkownika internetu jest cyberprzestępczością,
+który obejmuje szeroki zakres działań, takich jak phishing, malware, ransomware i hakerskie.
+Phishing do rodzaju oszustwa, w którym cyberprzestępcy mogą uzyskać poufne informacje, takie jak hasła i numery kart kredytowych, 
+przez podawanie się za zaufane osoby lub instytucję i próbę przekierowania użytkownika na fałszywą stronę internetową.
+Przykładem jest e-mail z połączenia o podanie danych kontaktu do banku
+
+Złośliwe oprogramowanie do oprogramowania, które może działać na komputerze i wykraść poufne informacje lub kontrolę kontroli nad złośliwym. 
+Przykładem jest pobranie pliku z nieznanego źródła, którego zawiera złośliwe oprogramowanie.
+
+Ransomware to rodzaj malware, który szyfruje pliki na komputer i wymaga okupu w zamian za ich odszyfrowanie
+Przykładem jest zaatakowanie firmy i zablokowanie dostępu do danych, a następnie zadanie okupu za odblokowanie dostępu.
+
+Ataki hakerskie do działania standardowego luk w zabezpieczeniach, aby uzyskać dostęp do poufnych informacji lub systemu kontroli nad systemem. 
+Przykładem jest atak na serwery rządowe lub korporacyjne dążenie do uzyskania dostępu do danych.
+
+Aby chronić się przed tymi zagrożeniami, ważne jest, aby korzystanie z internetu było zgodne z tymi zagrożeniami i stosowano środki bezpieczeństwa,
+takie jak używanie silnych haseł, unikanie pobierania plików z nieznanych źródeł i korzystanie z oprogramowania antywirusowego.
